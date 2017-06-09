@@ -1,0 +1,2 @@
+import passwd
+passwd.sentmail()
