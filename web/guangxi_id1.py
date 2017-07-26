@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.DEBUG)
 
 '广西ID抓取'
 
-DB = driver.connect(host='106.75.145.80', user='gxj', password='xiaojun.guo1', database='cra1', port=9988)
+DB = driver.connect(host='106.75.145.80', user='gxj', password='', database='cra1', port=9988)
 
 
 # 数据库异常重新连接
